@@ -8,3 +8,11 @@ Aplikasi web sederhana untuk mengelola jadwal perkuliahan menggunakan PHP dan My
 ├── index.php
 ├── koneksi.php
 └── style.css
+
+## Struktur Folder
+code/
+├── db/
+│   └── jadwal.sql
+├── index.php
+├── koneksi.php
+└── style.css
