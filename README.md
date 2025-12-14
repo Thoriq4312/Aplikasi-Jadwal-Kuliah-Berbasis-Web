@@ -6,20 +6,3 @@ Aplikasi-Jadwal-Kuliah-Berbasis-Web/
 ├── index.php 
 ├── koneksi.php 
 └── style.css
-
-inventory/
-│
-├── config/
-│   └── config.php
-│
-├── partials/
-│   ├── header.php
-│   └── footer.php
-│
-├── index.php
-├── dashboard.php
-├── create.php
-├── edit.php
-├── view.php
-├── delete.php
-└── README.md
